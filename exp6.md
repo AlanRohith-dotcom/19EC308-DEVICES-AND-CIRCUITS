@@ -42,19 +42,21 @@ gm =ID/VGS
 <img width="428" height="282" alt="image" src="https://github.com/user-attachments/assets/e1168bd1-4f0a-4640-b4c4-5d179b72c5cf" />
 
 # GRAPH:
+<img width="944" height="1311" alt="image" src="https://github.com/user-attachments/assets/b3d37604-a4a7-411b-820a-c7bca3719374" />
 
 
 # TABULATION:
-
+![WhatsApp Image 2026-03-23 at 9 07 33 PM](https://github.com/user-attachments/assets/d8d59d23-ad50-452f-a918-34c9c6985484)
 
 # CALCULATION:
+<img width="1600" height="1114" alt="image" src="https://github.com/user-attachments/assets/faacc787-96bc-491b-a321-1c761af4129e" />
 
 # RESULT:
 Thus the drain and transfer characteristics of the given JFET are drawn , the following
 parameters are calculated.
-1. Drain Resistance = K
-2. Trans conductance = mho
-3. Amplification factor= gmrd
-4. Pinch off voltage =
-5. Idss =
+1. Drain Resistance = 0.666*10^2 K
+2. Trans conductance = 3*10^-3mho
+3. Amplification factor= 2*10^-3 gmrd
+4. Pinch off voltage = 4v
+5. Idss =11.5MA
 
